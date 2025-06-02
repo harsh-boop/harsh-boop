@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🔭 I’m currently working on **Website**
 
-- 🌱 I’m currently learning **HTML,CSS ,JAVA SCRIPT AND REACT**
+- 🌱 I’m currently learning **Python SQL HTML CSS and JavaScript**
 
-- 📝 I regularly write articles on [Web Development](Web Development)
+- 📝 I regularly write articles on [Data Analysis]
 
-- 💬 Ask me about **JAVA SCRIPT, PYTHON**
+- 💬 Ask me about **Python , SQL**
 
-- 📫 How to reach me **harshxviii009@gmail.com**
+- 📫 How to reach me **kumarharsh6001@gmail.com**
 
 - ⚡ Fun fact **I am a fulltime console gamer**
 
